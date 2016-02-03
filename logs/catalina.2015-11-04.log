@@ -1,0 +1,1062 @@
+04-Nov-2015 00:08:00.071 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:08:00.072 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:09:00.060 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:09:00.061 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:10:00.058 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:10:00.058 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:11:06.549 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:11:06.557 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:12:00.057 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:12:00.058 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:13:00.049 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:13:00.050 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:14:00.067 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:14:00.068 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:15:00.102 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:15:00.103 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:16:17.764 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:16:17.766 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:17:00.058 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:17:00.059 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:18:00.126 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:18:00.127 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:19:00.073 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:19:00.074 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:20:00.057 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:20:00.057 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:21:00.067 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:21:00.068 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:22:00.075 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:22:00.076 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:23:02.578 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:23:02.594 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:24:00.065 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:24:00.065 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:25:05.882 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:25:05.904 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:26:00.069 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:26:00.069 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:27:00.117 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:27:00.117 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:28:00.068 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:28:00.070 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:29:00.084 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:29:00.084 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:30:00.077 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:30:00.077 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:31:22.649 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:31:22.650 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:32:00.086 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:32:00.087 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:33:00.161 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:33:00.161 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:34:00.091 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:34:00.092 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:35:00.114 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:35:00.114 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:36:00.104 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:36:00.105 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:37:00.058 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:37:00.059 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:38:09.687 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:38:09.689 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:39:00.057 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:39:00.057 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:40:00.058 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:40:00.058 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:41:00.065 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:41:00.066 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:42:00.051 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:42:00.052 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:43:00.065 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:43:00.066 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:44:00.052 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:44:00.053 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:45:00.154 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:45:00.156 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:46:00.052 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:46:00.052 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:47:00.054 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:47:00.055 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:48:00.051 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:48:00.051 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:49:00.066 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:49:00.067 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:50:00.118 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:50:00.118 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:51:00.133 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:51:00.134 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:52:00.117 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:52:00.117 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:53:00.064 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:53:00.065 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:54:00.141 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:54:00.141 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:55:00.091 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:55:00.092 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:56:00.143 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:56:00.143 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:57:00.138 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:57:00.139 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:58:00.084 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:58:00.085 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 00:59:06.704 WARN [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 00:59:06.711 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:00:00.061 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:00:00.061 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:01:00.080 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:01:00.081 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:02:00.070 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:02:00.071 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:03:00.055 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:03:00.055 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:04:00.063 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:04:00.064 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:05:00.061 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:05:00.061 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:06:00.069 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:06:00.069 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:07:00.068 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:07:00.068 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:08:00.081 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:08:00.082 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:09:00.051 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:09:00.051 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:10:10.630 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:10:10.631 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:11:00.051 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:11:00.052 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:12:00.056 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:12:00.057 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:13:00.075 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:13:00.076 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:14:00.063 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:14:00.063 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:15:00.078 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:15:00.081 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:16:00.056 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:16:00.057 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:17:10.758 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:17:10.759 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:18:00.056 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:18:00.057 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:19:00.104 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:19:00.105 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:20:00.073 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:20:00.074 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:21:00.065 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:21:00.066 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:22:00.066 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:22:00.067 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:23:00.051 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:23:00.052 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:24:00.066 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:24:00.067 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:25:00.053 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:25:00.054 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:26:07.711 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:26:07.720 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:27:00.054 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:27:00.054 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:28:00.051 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:28:00.051 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:29:00.059 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:29:00.060 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:30:00.056 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:30:00.056 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:31:00.063 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:31:00.064 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:32:00.051 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:32:00.052 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:33:00.083 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:33:00.084 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:34:00.051 WARN [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:34:00.051 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:35:00.053 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:35:00.053 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:36:00.060 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:36:00.061 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:37:00.165 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:37:00.165 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:38:00.051 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:38:00.051 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 01:39:00.052 WARN [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 01:39:00.055 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:11:00.064 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:11:00.065 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:12:00.058 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:12:00.059 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:13:00.067 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:13:00.068 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:14:00.060 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:14:00.060 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:15:00.065 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:15:00.065 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:16:00.059 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:16:00.059 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:17:00.065 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:17:00.066 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:18:00.051 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:18:00.051 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:19:04.711 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:19:04.712 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:20:00.051 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:20:00.051 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:21:00.052 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:21:00.053 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:22:00.068 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:22:00.069 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:23:00.060 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:23:00.060 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:24:00.058 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:24:00.059 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:25:00.056 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:25:00.056 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:26:00.058 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:26:00.059 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:27:00.056 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:27:00.056 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:28:03.684 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:28:03.686 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:29:00.056 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:29:00.057 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:30:00.217 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:30:00.218 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:31:00.094 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:31:00.095 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:32:00.052 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:32:00.052 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:33:00.063 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:33:00.064 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:34:00.051 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:34:00.051 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:35:00.063 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:35:00.064 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:36:00.081 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:36:00.082 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:37:17.617 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:37:17.618 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:38:00.051 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:38:00.051 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:39:00.127 WARN [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:39:00.127 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:40:00.067 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:40:00.068 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:41:00.085 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:41:00.085 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:42:00.063 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:42:00.064 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:43:00.061 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:43:00.061 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:44:00.058 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:44:00.059 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:45:00.055 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:45:00.056 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:46:13.637 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:46:13.638 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:47:00.056 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:47:00.057 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:48:00.163 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:48:00.164 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:49:00.067 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:49:00.068 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:50:00.083 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:50:00.083 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:51:00.083 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:51:00.084 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:52:00.466 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:52:00.468 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:53:00.073 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:53:00.074 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:54:00.055 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:54:00.055 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:55:00.077 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:55:00.078 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:56:00.080 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:56:00.081 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:57:00.083 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:57:00.084 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:58:00.127 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:58:00.127 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 04:59:03.619 WARN [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 04:59:03.621 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:00:00.095 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:00:00.096 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:01:00.456 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:01:00.482 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:02:00.059 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:02:00.061 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:03:00.057 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:03:00.057 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:04:00.058 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:04:00.059 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:05:00.119 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:05:00.119 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:06:00.127 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:06:00.128 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:07:08.598 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:07:08.609 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:08:00.083 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:08:00.083 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:09:00.139 WARN [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:09:00.140 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:10:00.059 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:10:00.060 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:11:00.055 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:11:00.056 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:12:00.058 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:12:00.060 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:13:00.056 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:13:00.056 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:14:00.058 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:14:00.059 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:15:00.056 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:15:00.056 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:16:00.051 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:16:00.052 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:17:02.664 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:17:02.667 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:18:00.051 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:18:00.052 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:19:00.072 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:19:00.073 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:20:00.059 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:20:00.060 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:21:00.055 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:21:00.055 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:22:00.058 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:22:00.059 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:23:00.064 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:23:00.064 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:24:04.629 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:24:04.630 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:25:00.055 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:25:00.056 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:26:00.062 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:26:00.063 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:27:00.063 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:27:00.065 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 05:28:00.052 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 05:28:00.052 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:00:00.108 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:00:00.109 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:01:27.885 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:01:27.962 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:02:00.085 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:02:00.086 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:03:00.048 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:03:00.048 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:04:00.101 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:04:00.102 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:05:00.050 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:05:00.050 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:06:03.595 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:06:03.614 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:07:00.051 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:07:00.051 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:08:00.073 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:08:00.073 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:09:00.062 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:09:00.063 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:10:00.051 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:10:00.051 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:11:00.067 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:11:00.068 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:12:00.050 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:12:00.051 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:13:00.183 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:13:00.184 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:14:00.051 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:14:00.051 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:15:11.692 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:15:11.694 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:16:00.050 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:16:00.051 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:17:00.054 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:17:00.055 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:18:00.059 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:18:00.060 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:19:00.072 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:19:00.072 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:20:00.064 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:20:00.065 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:21:00.116 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:21:00.116 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:22:00.121 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:22:00.122 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:23:00.132 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:23:00.133 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:24:13.814 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:24:13.815 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:25:00.113 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:25:00.113 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:26:00.251 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:26:00.252 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:27:00.076 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:27:00.077 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:28:00.141 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:28:00.141 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:29:00.097 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:29:00.098 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:30:00.084 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:30:00.084 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:31:00.945 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:31:00.952 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:32:00.101 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:32:00.102 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:33:12.717 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:33:12.719 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:34:00.056 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:34:00.057 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:35:00.089 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:35:00.090 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:36:00.060 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:36:00.061 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:37:00.057 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:37:00.058 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:38:00.058 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:38:00.059 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:39:00.057 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:39:00.058 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:40:00.056 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:40:00.056 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:41:00.049 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:41:00.049 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:42:00.055 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:42:00.055 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:43:00.051 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:43:00.051 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:44:00.058 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:44:00.059 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:45:00.051 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:45:00.051 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:46:00.054 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:46:00.054 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:47:00.053 WARN [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:47:00.053 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:48:00.053 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:48:00.053 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:49:00.049 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:49:00.050 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:50:00.056 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:50:00.057 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:51:00.156 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:51:00.156 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:52:00.052 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:52:00.053 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:53:00.068 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:53:00.068 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:54:00.058 WARN [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:54:00.059 ERROR [http-apr-8080-exec-5] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:55:00.084 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:55:00.084 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:56:00.056 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:56:00.056 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:57:00.066 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:57:00.066 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:58:00.060 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:58:00.061 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 08:59:00.066 WARN [http-apr-8080-exec-5] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 08:59:00.066 ERROR [http-apr-8080-exec-5] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 09:00:00.052 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 09:00:00.052 ERROR [http-apr-8080-exec-7] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 09:01:00.056 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 09:01:00.056 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:33:00.190 WARN [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:33:00.200 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:34:00.074 WARN [http-apr-8080-exec-3] <unknown>.<unknown> SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:34:00.074 ERROR [http-apr-8080-exec-3] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:35:00.050 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:35:00.050 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:36:00.056 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:36:00.057 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:37:00.054 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:37:00.055 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:38:00.056 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:38:00.056 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:39:00.069 WARN [http-apr-8080-exec-3] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:39:00.069 ERROR [http-apr-8080-exec-3] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:40:00.166 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:40:00.167 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:41:00.236 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:41:00.244 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:42:00.060 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:42:00.061 ERROR [http-apr-8080-exec-10] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:43:00.155 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:43:00.156 ERROR [http-apr-8080-exec-4] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:44:00.223 WARN [http-apr-8080-exec-3] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:44:00.223 ERROR [http-apr-8080-exec-3] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:45:00.099 WARN [http-apr-8080-exec-7] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:45:00.099 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:46:00.058 WARN [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:46:00.078 ERROR [http-apr-8080-exec-9] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:47:00.058 WARN [http-apr-8080-exec-10] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:47:00.058 ERROR [http-apr-8080-exec-10] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:48:00.103 WARN [http-apr-8080-exec-4] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:48:00.103 ERROR [http-apr-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:49:00.073 WARN [http-apr-8080-exec-3] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:49:00.073 ERROR [http-apr-8080-exec-3] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:50:00.086 WARN [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:50:00.087 ERROR [http-apr-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:51:00.072 WARN [http-apr-8080-exec-9] null.null SQL Error: 1040, SQLState: 08004
+04-Nov-2015 11:51:00.072 ERROR [http-apr-8080-exec-9] null.null Data source rejected establishment of connection,  message from server: "Too many connections"
+04-Nov-2015 11:51:53.177 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8080"]
+04-Nov-2015 11:51:53.583 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+04-Nov-2015 11:51:53.669 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+04-Nov-2015 11:51:56.549 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoader.clearReferencesJdbc The web application [/TempoEngine] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Nov-2015 11:51:56.592 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoader.clearReferencesThreads The web application [/TempoEngine] appears to have started a thread named [MySQL Statement Cancellation Timer] but has failed to stop it. This is very likely to create a memory leak.
+04-Nov-2015 11:51:57.477 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8080"]
+04-Nov-2015 11:51:57.810 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]
+04-Nov-2015 11:51:58.077 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-apr-8080"]
+04-Nov-2015 11:51:58.207 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-apr-8009"]
+04-Nov-2015 11:52:13.801 INFO [main] org.apache.catalina.core.AprLifecycleListener.init Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+04-Nov-2015 11:52:13.805 INFO [main] org.apache.catalina.core.AprLifecycleListener.init APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+04-Nov-2015 11:52:15.514 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+04-Nov-2015 11:52:15.854 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+04-Nov-2015 11:52:15.899 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+04-Nov-2015 11:52:15.902 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3000 ms
+04-Nov-2015 11:52:16.000 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+04-Nov-2015 11:52:16.002 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.3
+04-Nov-2015 11:52:16.023 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Software\6. apache-tomcat-8.0.3-windows-x64\apache-tomcat-8.0.3\webapps\docs
+04-Nov-2015 11:52:16.974 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGenerator.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [215] milliseconds.
+04-Nov-2015 11:52:17.007 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Software\6. apache-tomcat-8.0.3-windows-x64\apache-tomcat-8.0.3\webapps\examples
+04-Nov-2015 11:52:18.341 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Software\6. apache-tomcat-8.0.3-windows-x64\apache-tomcat-8.0.3\webapps\host-manager
+04-Nov-2015 11:52:18.473 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Software\6. apache-tomcat-8.0.3-windows-x64\apache-tomcat-8.0.3\webapps\manager
+04-Nov-2015 11:52:18.582 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Software\6. apache-tomcat-8.0.3-windows-x64\apache-tomcat-8.0.3\webapps\ROOT
+04-Nov-2015 11:52:18.661 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Software\6. apache-tomcat-8.0.3-windows-x64\apache-tomcat-8.0.3\webapps\TempoEngine
+04-Nov-2015 11:52:22.168 INFO [localhost-startStop-1] com.sun.jersey.api.core.PackagesResourceConfig.init Scanning for root resource and provider classes in the packages:
+  com.virtusa.tempo
+04-Nov-2015 11:52:22.390 INFO [localhost-startStop-1] com.sun.jersey.api.core.ScanningResourceConfig.logClasses Root resource classes found:
+  class com.virtusa.tempo.hibernate.resource.ToolResource
+  class com.virtusa.tempo.hibernate.resource.DeploymentLogResource
+  class com.virtusa.tempo.hibernate.resource.ActionExecuteLogResource
+  class com.virtusa.tempo.hibernate.resource.FlowWorkFlowExecuteLogResource
+  class com.virtusa.tempo.hibernate.resource.MachineGroupResource
+  class com.virtusa.tempo.hibernate.resource.VersionResourse
+  class com.virtusa.tempo.hibernate.resource.ScheduleResource
+  class com.virtusa.tempo.hibernate.resource.UserResource
+  class com.virtusa.tempo.hibernate.resource.EnvParamResource
+  class com.virtusa.tempo.hibernate.resource.FlowActionExecuteLogResource
+  class com.virtusa.tempo.hibernate.resource.MachineResource
+  class com.virtusa.tempo.hibernate.resource.CascadedDeploymentLogResource
+  class com.virtusa.tempo.hibernate.resource.EnvironmentResource
+  class com.virtusa.tempo.toolbox.resource.Resource
+  class com.virtusa.tempo.hibernate.resource.MachineParamResource
+  class com.virtusa.tempo.hibernate.resource.ComponentResource
+  class com.virtusa.tempo.hibernate.resource.CascadedWorkFlowResource
+  class com.virtusa.tempo.hibernate.resource.DBResource
+  class com.virtusa.tempo.hibernate.resource.WorkFlowResource
+  class com.virtusa.tempo.hibernate.resource.ProjectsResource
+04-Nov-2015 11:52:22.394 INFO [localhost-startStop-1] com.sun.jersey.api.core.ScanningResourceConfig.init No provider classes found.
+04-Nov-2015 11:52:22.714 INFO [localhost-startStop-1] com.sun.jersey.server.impl.application.WebApplicationImpl._initiate Initiating Jersey application, version 'Jersey: 1.8 06/24/2011 12:17 PM'
+04-Nov-2015 11:52:25.914 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+04-Nov-2015 11:52:26.214 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+04-Nov-2015 11:52:26.216 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 10312 ms
+04-Nov-2015 11:53:02.358 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+04-Nov-2015 11:53:02.406 INFO [http-apr-8080-exec-2] org.hibernate.Version.logVersion HHH000412: Hibernate Core {4.2.7.SP1}
+04-Nov-2015 11:53:02.426 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+04-Nov-2015 11:53:02.438 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000021: Bytecode provider name : javassist
+04-Nov-2015 11:53:02.685 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.configure HHH000043: Configuring from resource: /hibernate.cfg.xml
+04-Nov-2015 11:53:02.687 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.getConfigurationInputStream HHH000040: Configuration resource: /hibernate.cfg.xml
+04-Nov-2015 11:53:02.886 WARN [http-apr-8080-exec-2] null.null HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.000 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Project.hbm.xml
+04-Nov-2015 11:53:03.209 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.284 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Action.hbm.xml
+04-Nov-2015 11:53:03.323 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.360 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/ActionProperty.hbm.xml
+04-Nov-2015 11:53:03.390 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.403 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Component.hbm.xml
+04-Nov-2015 11:53:03.432 WARN [http-apr-8080-exec-2] null.null HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.443 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Environment.hbm.xml
+04-Nov-2015 11:53:03.474 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.489 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/FlowAction.hbm.xml
+04-Nov-2015 11:53:03.521 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.546 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Log.hbm.xml
+04-Nov-2015 11:53:03.568 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.578 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Machine.hbm.xml
+04-Nov-2015 11:53:03.601 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.620 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/MachineGroup.hbm.xml
+04-Nov-2015 11:53:03.657 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.666 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Notification.hbm.xml
+04-Nov-2015 11:53:03.704 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.713 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Tool.hbm.xml
+04-Nov-2015 11:53:03.731 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.759 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/ToolProperty.hbm.xml
+04-Nov-2015 11:53:03.786 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.794 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/User.hbm.xml
+04-Nov-2015 11:53:03.838 WARN [http-apr-8080-exec-2] null.null HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.846 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Version.hbm.xml
+04-Nov-2015 11:53:03.876 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.885 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/WorkFlow.hbm.xml
+04-Nov-2015 11:53:03.898 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.907 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/CompParam.hbm.xml
+04-Nov-2015 11:53:03.957 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:03.965 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/EnvParam.hbm.xml
+04-Nov-2015 11:53:04.008 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.017 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/ProjectParam.hbm.xml
+04-Nov-2015 11:53:04.048 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.064 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/VersionParam.hbm.xml
+04-Nov-2015 11:53:04.139 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.147 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/MachineGroupParam.hbm.xml
+04-Nov-2015 11:53:04.195 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.203 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/MachineParam.hbm.xml
+04-Nov-2015 11:53:04.259 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.267 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/WorkFlowParam.hbm.xml
+04-Nov-2015 11:53:04.281 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.288 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/FlowActionProperty.hbm.xml
+04-Nov-2015 11:53:04.318 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.330 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/LinkFlowAction.hbm.xml
+04-Nov-2015 11:53:04.363 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.371 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/EnvParamValue.hbm.xml
+04-Nov-2015 11:53:04.543 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.550 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/MachineParamValue.hbm.xml
+04-Nov-2015 11:53:04.579 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.596 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/DeploymentLog.hbm.xml
+04-Nov-2015 11:53:04.650 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.659 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/ActionExecuteLog.hbm.xml
+04-Nov-2015 11:53:04.730 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.738 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/FlowActionExecuteLog.hbm.xml
+04-Nov-2015 11:53:04.788 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.795 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/VersionParamValue.hbm.xml
+04-Nov-2015 11:53:04.874 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.887 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/UserPermission.hbm.xml
+04-Nov-2015 11:53:04.926 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.934 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/CascadedWorkFlow.hbm.xml
+04-Nov-2015 11:53:04.964 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:04.975 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/CascadedDeploymentLog.hbm.xml
+04-Nov-2015 11:53:04.994 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.002 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/FlowWorkFlow.hbm.xml
+04-Nov-2015 11:53:05.016 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.023 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/FlowWorkFlowExecuteLog.hbm.xml
+04-Nov-2015 11:53:05.054 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.062 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/FlowWorkFlowProperty.hbm.xml
+04-Nov-2015 11:53:05.106 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.114 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/LinkFlowWorkFlow.hbm.xml
+04-Nov-2015 11:53:05.132 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.140 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/TriggerFlowAction.hbm.xml
+04-Nov-2015 11:53:05.164 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.173 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/TriggerLinkFlowAction.hbm.xml
+04-Nov-2015 11:53:05.188 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.195 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/TriggerFlowActionProperty.hbm.xml
+04-Nov-2015 11:53:05.210 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.218 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/Schedule.hbm.xml
+04-Nov-2015 11:53:05.235 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.241 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000221: Reading mappings from resource: com/virtusa/tempo/hibernate/mapping/ScheduleUpdateTracker.hbm.xml
+04-Nov-2015 11:53:05.264 WARN [http-apr-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+04-Nov-2015 11:53:05.273 INFO [http-apr-8080-exec-2] org.hibernate.cfg.Configuration.doConfigure HHH000041: Configured SessionFactory: null
+04-Nov-2015 11:53:05.804 INFO [http-apr-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000402: Using Hibernate built-in connection pool (not for production use!)
+04-Nov-2015 11:53:05.812 INFO [http-apr-8080-exec-2] null.null HHH000115: Hibernate connection pool size: 20
+04-Nov-2015 11:53:05.813 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000006: Autocommit mode: false
+04-Nov-2015 11:53:05.814 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306]
+04-Nov-2015 11:53:05.814 INFO [http-apr-8080-exec-2] null.null HHH000046: Connection properties: {user=root, password=****}
+04-Nov-2015 11:53:06.738 INFO [http-apr-8080-exec-2] null.null HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+04-Nov-2015 11:53:06.823 INFO [http-apr-8080-exec-2] null.null HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+04-Nov-2015 11:53:07.604 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000038: Composite-id class does not override equals(): com.virtusa.tempo.hibernate.model.EnvParamValueId
+04-Nov-2015 11:53:07.605 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000039: Composite-id class does not override hashCode(): com.virtusa.tempo.hibernate.model.EnvParamValueId
+04-Nov-2015 11:53:07.609 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000038: Composite-id class does not override equals(): com.virtusa.tempo.hibernate.model.VersionParamValueId
+04-Nov-2015 11:53:07.623 WARN [http-apr-8080-exec-2] org.hibernate.mapping.RootClass.checkCompositeIdentifier HHH000039: Composite-id class does not override hashCode(): com.virtusa.tempo.hibernate.model.VersionParamValueId
+04-Nov-2015 11:53:07.635 WARN [http-apr-8080-exec-2] org.hibernate.mapping.RootClass.checkCompositeIdentifier HHH000038: Composite-id class does not override equals(): com.virtusa.tempo.hibernate.model.UserPermissionId
+04-Nov-2015 11:53:07.635 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000039: Composite-id class does not override hashCode(): com.virtusa.tempo.hibernate.model.UserPermissionId
+04-Nov-2015 11:53:07.636 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000038: Composite-id class does not override equals(): com.virtusa.tempo.hibernate.model.FlowWorkFlowId
+04-Nov-2015 11:53:07.636 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000039: Composite-id class does not override hashCode(): com.virtusa.tempo.hibernate.model.FlowWorkFlowId
+04-Nov-2015 11:53:07.637 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000038: Composite-id class does not override equals(): com.virtusa.tempo.hibernate.model.TriggerFlowActionId
+04-Nov-2015 11:53:07.637 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000039: Composite-id class does not override hashCode(): com.virtusa.tempo.hibernate.model.TriggerFlowActionId
+04-Nov-2015 11:53:07.639 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000038: Composite-id class does not override equals(): com.virtusa.tempo.hibernate.model.FlowActionId
+04-Nov-2015 11:53:07.639 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000039: Composite-id class does not override hashCode(): com.virtusa.tempo.hibernate.model.FlowActionId
+04-Nov-2015 11:53:07.643 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000038: Composite-id class does not override equals(): com.virtusa.tempo.hibernate.model.MachineParamValueId
+04-Nov-2015 11:53:07.643 WARN [http-apr-8080-exec-2] <unknown>.<unknown> HHH000039: Composite-id class does not override hashCode(): com.virtusa.tempo.hibernate.model.MachineParamValueId
+04-Nov-2015 11:53:07.726 INFO [http-apr-8080-exec-2] null.null HHH000399: Using default transaction strategy (direct JDBC transactions)
+04-Nov-2015 11:53:07.986 INFO [http-apr-8080-exec-2] null.null HHH000397: Using ASTQueryTranslatorFactory
+04-Nov-2015 11:53:09.969 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000228: Running hbm2ddl schema update
+04-Nov-2015 11:53:09.970 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000102: Fetching database metadata
+04-Nov-2015 11:53:09.977 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000396: Updating schema
+04-Nov-2015 11:53:10.048 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: ACTION
+04-Nov-2015 11:53:10.054 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ACTIONEXECUTELOG
+04-Nov-2015 11:53:10.055 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: ACTIONPROPERTY
+04-Nov-2015 11:53:10.056 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: CASCADEDDEPLOYMENTLOG
+04-Nov-2015 11:53:10.057 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: CASCADEDWORKFLOW
+04-Nov-2015 11:53:10.057 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: COMPONENT
+04-Nov-2015 11:53:10.058 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: COMPPARAM
+04-Nov-2015 11:53:10.058 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: DEPLOYMENTLOG
+04-Nov-2015 11:53:10.059 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVIRONMENT
+04-Nov-2015 11:53:10.060 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVPARAM
+04-Nov-2015 11:53:10.062 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVPARAMVALUE
+04-Nov-2015 11:53:10.063 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTION
+04-Nov-2015 11:53:10.073 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTIONEXECUTELOG
+04-Nov-2015 11:53:10.080 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: FLOWACTIONPROPERTY
+04-Nov-2015 11:53:10.081 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: FLOWWORKFLOW
+04-Nov-2015 11:53:10.082 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWWORKFLOWEXECUTELOG
+04-Nov-2015 11:53:10.082 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: FLOWWORKFLOWPROPERTY
+04-Nov-2015 11:53:10.083 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LINKFLOWACTION
+04-Nov-2015 11:53:10.084 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LINKFLOWWORKFLOW
+04-Nov-2015 11:53:10.085 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LOG
+04-Nov-2015 11:53:10.086 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINE
+04-Nov-2015 11:53:10.087 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUP
+04-Nov-2015 11:53:10.089 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUPPARAM
+04-Nov-2015 11:53:10.089 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUP_COMPONENT
+04-Nov-2015 11:53:10.090 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUP_TOOL
+04-Nov-2015 11:53:10.091 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEPARAM
+04-Nov-2015 11:53:10.092 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: MACHINEPARAMVALUE
+04-Nov-2015 11:53:10.093 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: MACHINE_MACHINEGROUP
+04-Nov-2015 11:53:10.093 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: NOTIFICATION
+04-Nov-2015 11:53:10.094 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: PROJECT
+04-Nov-2015 11:53:10.094 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: PROJECTPARAM
+04-Nov-2015 11:53:10.094 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: SCHEDULE
+04-Nov-2015 11:53:10.095 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: SCHEDULEUPDATETRACKER
+04-Nov-2015 11:53:10.095 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: TOOL
+04-Nov-2015 11:53:10.096 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TOOLPROPERTY
+04-Nov-2015 11:53:10.097 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: TRIGGERFLOWACTION
+04-Nov-2015 11:53:10.097 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: TRIGGERFLOWACTIONPROPERTY
+04-Nov-2015 11:53:10.098 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TRIGGERLINKFLOWACTION
+04-Nov-2015 11:53:10.100 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: USER
+04-Nov-2015 11:53:10.101 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: USERPERMISSION
+04-Nov-2015 11:53:10.102 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: VERSION
+04-Nov-2015 11:53:10.103 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: VERSIONPARAM
+04-Nov-2015 11:53:10.105 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: VERSIONPARAMVALUE
+04-Nov-2015 11:53:10.106 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: WORKFLOW
+04-Nov-2015 11:53:10.108 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: WORKFLOWPARAM
+04-Nov-2015 11:53:10.109 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ACTION
+04-Nov-2015 11:53:10.109 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ACTIONEXECUTELOG
+04-Nov-2015 11:53:10.110 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ACTIONPROPERTY
+04-Nov-2015 11:53:10.111 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: CASCADEDDEPLOYMENTLOG
+04-Nov-2015 11:53:10.111 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: CASCADEDWORKFLOW
+04-Nov-2015 11:53:10.112 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: COMPONENT
+04-Nov-2015 11:53:10.112 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: COMPPARAM
+04-Nov-2015 11:53:10.113 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: DEPLOYMENTLOG
+04-Nov-2015 11:53:10.114 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVIRONMENT
+04-Nov-2015 11:53:10.114 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVPARAM
+04-Nov-2015 11:53:10.115 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVPARAMVALUE
+04-Nov-2015 11:53:10.115 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTION
+04-Nov-2015 11:53:10.116 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTIONEXECUTELOG
+04-Nov-2015 11:53:10.116 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTIONPROPERTY
+04-Nov-2015 11:53:10.117 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWWORKFLOW
+04-Nov-2015 11:53:10.118 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWWORKFLOWEXECUTELOG
+04-Nov-2015 11:53:10.118 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWWORKFLOWPROPERTY
+04-Nov-2015 11:53:10.119 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LINKFLOWACTION
+04-Nov-2015 11:53:10.120 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LINKFLOWWORKFLOW
+04-Nov-2015 11:53:10.120 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LOG
+04-Nov-2015 11:53:10.121 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINE
+04-Nov-2015 11:53:10.122 INFO [http-apr-8080-exec-2] null.getTableMetadata HHH000262: Table not found: MACHINEGROUP
+04-Nov-2015 11:53:10.122 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: MACHINEGROUPPARAM
+04-Nov-2015 11:53:10.123 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: MACHINEGROUP_COMPONENT
+04-Nov-2015 11:53:10.123 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: MACHINEGROUP_TOOL
+04-Nov-2015 11:53:10.124 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: MACHINEPARAM
+04-Nov-2015 11:53:10.124 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: MACHINEPARAMVALUE
+04-Nov-2015 11:53:10.125 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: MACHINE_MACHINEGROUP
+04-Nov-2015 11:53:10.125 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: NOTIFICATION
+04-Nov-2015 11:53:10.125 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: PROJECT
+04-Nov-2015 11:53:10.126 INFO [http-apr-8080-exec-2] <unknown>.<unknown> HHH000262: Table not found: PROJECTPARAM
+04-Nov-2015 11:53:10.126 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: SCHEDULE
+04-Nov-2015 11:53:10.127 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: SCHEDULEUPDATETRACKER
+04-Nov-2015 11:53:10.127 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TOOL
+04-Nov-2015 11:53:10.128 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TOOLPROPERTY
+04-Nov-2015 11:53:10.128 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TRIGGERFLOWACTION
+04-Nov-2015 11:53:10.129 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TRIGGERFLOWACTIONPROPERTY
+04-Nov-2015 11:53:10.129 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TRIGGERLINKFLOWACTION
+04-Nov-2015 11:53:10.130 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: USER
+04-Nov-2015 11:53:10.130 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: USERPERMISSION
+04-Nov-2015 11:53:10.131 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: VERSION
+04-Nov-2015 11:53:10.132 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: VERSIONPARAM
+04-Nov-2015 11:53:10.132 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: VERSIONPARAMVALUE
+04-Nov-2015 11:53:10.133 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: WORKFLOW
+04-Nov-2015 11:53:10.134 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: WORKFLOWPARAM
+04-Nov-2015 11:53:10.134 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ACTION
+04-Nov-2015 11:53:10.135 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ACTIONEXECUTELOG
+04-Nov-2015 11:53:10.136 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ACTIONPROPERTY
+04-Nov-2015 11:53:10.137 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: CASCADEDDEPLOYMENTLOG
+04-Nov-2015 11:53:10.137 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: CASCADEDWORKFLOW
+04-Nov-2015 11:53:10.138 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: COMPONENT
+04-Nov-2015 11:53:10.139 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: COMPPARAM
+04-Nov-2015 11:53:10.139 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: DEPLOYMENTLOG
+04-Nov-2015 11:53:10.140 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVIRONMENT
+04-Nov-2015 11:53:10.140 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVPARAM
+04-Nov-2015 11:53:10.141 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: ENVPARAMVALUE
+04-Nov-2015 11:53:10.142 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTION
+04-Nov-2015 11:53:10.149 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTIONEXECUTELOG
+04-Nov-2015 11:53:10.150 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWACTIONPROPERTY
+04-Nov-2015 11:53:10.151 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: FLOWWORKFLOW
+04-Nov-2015 11:53:10.151 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: FLOWWORKFLOWEXECUTELOG
+04-Nov-2015 11:53:10.152 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: FLOWWORKFLOWPROPERTY
+04-Nov-2015 11:53:10.153 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LINKFLOWACTION
+04-Nov-2015 11:53:10.153 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LINKFLOWWORKFLOW
+04-Nov-2015 11:53:10.154 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: LOG
+04-Nov-2015 11:53:10.155 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINE
+04-Nov-2015 11:53:10.156 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUP
+04-Nov-2015 11:53:10.156 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUPPARAM
+04-Nov-2015 11:53:10.157 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUP_COMPONENT
+04-Nov-2015 11:53:10.157 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEGROUP_TOOL
+04-Nov-2015 11:53:10.158 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEPARAM
+04-Nov-2015 11:53:10.159 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINEPARAMVALUE
+04-Nov-2015 11:53:10.159 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: MACHINE_MACHINEGROUP
+04-Nov-2015 11:53:10.160 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: NOTIFICATION
+04-Nov-2015 11:53:10.160 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: PROJECT
+04-Nov-2015 11:53:10.161 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: PROJECTPARAM
+04-Nov-2015 11:53:10.162 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: SCHEDULE
+04-Nov-2015 11:53:10.165 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: SCHEDULEUPDATETRACKER
+04-Nov-2015 11:53:10.165 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TOOL
+04-Nov-2015 11:53:10.166 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TOOLPROPERTY
+04-Nov-2015 11:53:10.167 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TRIGGERFLOWACTION
+04-Nov-2015 11:53:10.167 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TRIGGERFLOWACTIONPROPERTY
+04-Nov-2015 11:53:10.168 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: TRIGGERLINKFLOWACTION
+04-Nov-2015 11:53:10.168 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: USER
+04-Nov-2015 11:53:10.169 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: USERPERMISSION
+04-Nov-2015 11:53:10.169 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: VERSION
+04-Nov-2015 11:53:10.170 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: VERSIONPARAM
+04-Nov-2015 11:53:10.170 INFO [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.DatabaseMetadata.getTableMetadata HHH000262: Table not found: VERSIONPARAMVALUE
+04-Nov-2015 11:53:10.171 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: WORKFLOW
+04-Nov-2015 11:53:10.171 INFO [http-apr-8080-exec-2] null.null HHH000262: Table not found: WORKFLOWPARAM
+04-Nov-2015 11:53:10.237 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.ACTION (ACTIONID integer not null auto_increment, NAME varchar(255), DESCRIPTION varchar(255), TOOLID integer, primary key (ACTIONID))
+04-Nov-2015 11:53:10.238 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'action' already exists
+04-Nov-2015 11:53:10.276 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.ACTIONEXECUTELOG (ACTIONEXECUTELOGID integer not null, FLOWACTIONEXECUTELOGID integer, STATUS varchar(255), DESCRIPTION LONGTEXT, MACHINENAME varchar(255), primary key (ACTIONEXECUTELOGID))
+04-Nov-2015 11:53:10.276 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'actionexecutelog' already exists
+04-Nov-2015 11:53:10.278 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.ACTIONPROPERTY (ACTIONPROPERTYID integer not null, NAME varchar(255), VALUE LONGTEXT, TYPE varchar(255), DESCRIPTION LONGTEXT, ACTIONID integer, primary key (ACTIONPROPERTYID))
+04-Nov-2015 11:53:10.278 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'actionproperty' already exists
+04-Nov-2015 11:53:10.288 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.CASCADEDDEPLOYMENTLOG (CASCADEDDEPLOYMENTLOGID integer not null, CASCADEDWORKFLOWID integer, STATUS varchar(255), STARTTIME datetime, ENDTIME datetime, CASCADEDWORKFLOWJSON LONGTEXT, DESCRIPTION LONGTEXT, primary key (CASCADEDDEPLOYMENTLOGID))
+04-Nov-2015 11:53:10.289 ERROR [http-apr-8080-exec-2] null.null Table 'cascadeddeploymentlog' already exists
+04-Nov-2015 11:53:10.290 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.CASCADEDWORKFLOW (CASCADEDWORKFLOWID integer not null, NAME varchar(255), DESCRIPTION varchar(255), ARCHIVED boolean, LOCKBY varchar(255), PROJECTID integer, primary key (CASCADEDWORKFLOWID))
+04-Nov-2015 11:53:10.290 ERROR [http-apr-8080-exec-2] null.null Table 'cascadedworkflow' already exists
+04-Nov-2015 11:53:10.306 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.COMPONENT (COMPONENTID integer not null, NAME varchar(255), ARCHIVED boolean, LOCKBY varchar(255), PROJECTID integer, primary key (COMPONENTID))
+04-Nov-2015 11:53:10.306 ERROR [http-apr-8080-exec-2] null.null Table 'component' already exists
+04-Nov-2015 11:53:10.324 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.COMPPARAM (COMPPARAMID integer not null, NAME varchar(255), VALUE varchar(255), COMPONENTID integer, primary key (COMPPARAMID))
+04-Nov-2015 11:53:10.325 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'compparam' already exists
+04-Nov-2015 11:53:10.346 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.DEPLOYMENTLOG (DEPLOYMENTLOGID integer not null, WORKFLOWID integer, ENVIRONMENTID varchar(255), STATUS varchar(255), STARTTIME datetime, ENDTIME datetime, VERSION varchar(255), FILETYPE varchar(255), WORKFLOWJSON LONGTEXT, DESCRIPTION LONGTEXT, primary key (DEPLOYMENTLOGID))
+04-Nov-2015 11:53:10.346 ERROR [http-apr-8080-exec-2] null.null Table 'deploymentlog' already exists
+04-Nov-2015 11:53:10.348 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.ENVIRONMENT (ENVIRONMENTID integer not null, NAME varchar(255), ARCHIVED boolean, LOCKBY varchar(255), PROJECTID integer, primary key (ENVIRONMENTID))
+04-Nov-2015 11:53:10.348 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'environment' already exists
+04-Nov-2015 11:53:10.350 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.ENVPARAM (ENVPARAMID integer not null, NAME varchar(255), PROJECTID integer, primary key (ENVPARAMID))
+04-Nov-2015 11:53:10.350 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'envparam' already exists
+04-Nov-2015 11:53:10.374 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.ENVPARAMVALUE (ENVIRONMENTID integer not null, ENVPARAMID integer not null, VALUE varchar(255), ENVPARAMSETID integer, primary key (ENVIRONMENTID, ENVPARAMID))
+04-Nov-2015 11:53:10.374 ERROR [http-apr-8080-exec-2] null.null Table 'envparamvalue' already exists
+04-Nov-2015 11:53:10.383 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.FLOWACTION (FLOWACTIONID integer not null, WORKFLOWID integer not null, NAME varchar(255), LOCATIONX double precision, LOCATIONY double precision, SKIPPED varchar(255), WIDTH double precision, HEIGHT double precision, ACTIONID integer, WORKFLOWIDSET integer, primary key (FLOWACTIONID, WORKFLOWID))
+04-Nov-2015 11:53:10.383 ERROR [http-apr-8080-exec-2] null.null Table 'flowaction' already exists
+04-Nov-2015 11:53:10.385 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.FLOWACTIONEXECUTELOG (FLOWACTIONEXECUTELOGID integer not null, DEPLOYMENTLOGID integer, FLOWACTIONID integer, STATUS varchar(255), DESCRIPTION LONGTEXT, primary key (FLOWACTIONEXECUTELOGID))
+04-Nov-2015 11:53:10.385 ERROR [http-apr-8080-exec-2] null.null Table 'flowactionexecutelog' already exists
+04-Nov-2015 11:53:10.386 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.FLOWACTIONPROPERTY (FLOWACTIONPROPERTYID integer not null, ACTIONPROPERTYID integer, NEWVALUE LONGTEXT, FLOWACTIONID integer, WORKFLOWID integer, primary key (FLOWACTIONPROPERTYID))
+04-Nov-2015 11:53:10.387 ERROR [http-apr-8080-exec-2] null.null Table 'flowactionproperty' already exists
+04-Nov-2015 11:53:10.412 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.FLOWWORKFLOW (FLOWWORKFLOWID integer not null, CASCADEDWORKFLOWID integer not null, NAME varchar(255), LOCATIONX double precision, LOCATIONY double precision, SKIPPED varchar(255), HEIGHT double precision, WIDTH double precision, WORKFLOWID integer, ENVIRONMENTID integer, TOOLTYPE varchar(255), VERSIONID integer, CASCADEDWORKFLOWIDSET integer, primary key (FLOWWORKFLOWID, CASCADEDWORKFLOWID))
+04-Nov-2015 11:53:10.413 ERROR [http-apr-8080-exec-2] null.null Table 'flowworkflow' already exists
+04-Nov-2015 11:53:10.447 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.FLOWWORKFLOWEXECUTELOG (FLOWACTIONEXECUTELOGID integer not null, CASCADEDDEPLOYMENTLOGID integer, FLOWWORKFLOWID integer, STATUS varchar(255), DESCRIPTION LONGTEXT, DEPLOYMENTLOGID integer, primary key (FLOWACTIONEXECUTELOGID))
+04-Nov-2015 11:53:10.448 ERROR [http-apr-8080-exec-2] null.null Table 'flowworkflowexecutelog' already exists
+04-Nov-2015 11:53:10.465 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.FLOWWORKFLOWPROPERTY (FLOWWORKFLOWPROPERTYID integer not null, WORKFLOWPARAMID integer, NEWVALUE LONGTEXT, FLOWWORKFLOWID integer, CASCADEDWORKFLOWID integer, primary key (FLOWWORKFLOWPROPERTYID))
+04-Nov-2015 11:53:10.466 ERROR [http-apr-8080-exec-2] null.null Table 'flowworkflowproperty' already exists
+04-Nov-2015 11:53:10.475 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.LINKFLOWACTION (LINKFLOWACTIONID integer not null, FROMFLOWACTIONID integer, FROMWORKFLOWID integer, TOFLOWACTIONID integer, TOWORKFLOWID integer, TYPE varchar(255), WORKFLOWID integer, primary key (LINKFLOWACTIONID))
+04-Nov-2015 11:53:10.475 ERROR [http-apr-8080-exec-2] null.null Table 'linkflowaction' already exists
+04-Nov-2015 11:53:10.477 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.LINKFLOWWORKFLOW (LINKFLOWWORKFLOWID integer not null, FROMFLOWWORKFLOWID integer, FROMCASCADEDWORKFLOWID integer, TOFLOWWORKFLOWID integer, TOFCASCADEDWORKFLOWID integer, TYPE varchar(255), CASCADEDWORKFLOWID integer, primary key (LINKFLOWWORKFLOWID))
+04-Nov-2015 11:53:10.477 ERROR [http-apr-8080-exec-2] null.null Table 'linkflowworkflow' already exists
+04-Nov-2015 11:53:10.478 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.LOG (LOGID integer not null, VERSIONID integer, primary key (LOGID))
+04-Nov-2015 11:53:10.478 ERROR [http-apr-8080-exec-2] null.null Table 'log' already exists
+04-Nov-2015 11:53:10.479 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.MACHINE (MACHINEID integer not null, NAME varchar(255), ISSERVER boolean, AUTHENTICATION varchar(255), IP varchar(255), STATUS varchar(255), USERNAME varchar(255), PASSWORD varchar(255), PLATFORM varchar(255), HOMEDIR varchar(255), PROJECTID integer, primary key (MACHINEID))
+04-Nov-2015 11:53:10.480 ERROR [http-apr-8080-exec-2] null.null Table 'machine' already exists
+04-Nov-2015 11:53:10.480 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.MACHINEGROUP (MACHINEGROUPID integer not null, NAME varchar(255), ENVIRONMENTID integer, primary key (MACHINEGROUPID))
+04-Nov-2015 11:53:10.481 ERROR [http-apr-8080-exec-2] null.null Table 'machinegroup' already exists
+04-Nov-2015 11:53:10.488 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.MACHINEGROUPPARAM (MACHINEGROUPPARAMID integer not null, NAME varchar(255), VALUE varchar(255), MACHINEGROUPID integer, primary key (MACHINEGROUPPARAMID))
+04-Nov-2015 11:53:10.488 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'machinegroupparam' already exists
+04-Nov-2015 11:53:10.493 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.MACHINEGROUP_COMPONENT (COMPONENTID integer not null, MACHINEGROUPID integer not null, primary key (COMPONENTID, MACHINEGROUPID))
+04-Nov-2015 11:53:10.494 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'machinegroup_component' already exists
+04-Nov-2015 11:53:10.495 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.MACHINEGROUP_TOOL (MACHINEGROUPID integer not null, TOOLID integer not null, primary key (TOOLID, MACHINEGROUPID))
+04-Nov-2015 11:53:10.496 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'machinegroup_tool' already exists
+04-Nov-2015 11:53:10.497 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.MACHINEPARAM (MACHINEPARAMID integer not null, NAME varchar(255), PROJECTID integer, primary key (MACHINEPARAMID))
+04-Nov-2015 11:53:10.497 ERROR [http-apr-8080-exec-2] null.null Table 'machineparam' already exists
+04-Nov-2015 11:53:10.527 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.MACHINEPARAMVALUE (MACHINEID integer not null, MACHINEPARAMID integer not null, VALUE varchar(255), MACHINEPARAMSETID integer, primary key (MACHINEID, MACHINEPARAMID))
+04-Nov-2015 11:53:10.528 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'machineparamvalue' already exists
+04-Nov-2015 11:53:10.535 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.MACHINE_MACHINEGROUP (MACHINEID integer not null, MACHINEGROUPID integer not null, primary key (MACHINEGROUPID, MACHINEID))
+04-Nov-2015 11:53:10.535 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'machine_machinegroup' already exists
+04-Nov-2015 11:53:10.537 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.NOTIFICATION (NOTIFICATIONID integer not null, SUBJECT varchar(255), BODY varchar(255), PROJECTID integer, primary key (NOTIFICATIONID))
+04-Nov-2015 11:53:10.537 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'notification' already exists
+04-Nov-2015 11:53:10.539 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.PROJECT (PROJECTID integer not null, NAME varchar(255), DESCRIPTION LONGTEXT, ARCHIVED boolean, LOCKBY varchar(255), primary key (PROJECTID))
+04-Nov-2015 11:53:10.539 ERROR [http-apr-8080-exec-2] null.null Table 'project' already exists
+04-Nov-2015 11:53:10.540 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.PROJECTPARAM (PROJECTPARAMID integer not null, NAME varchar(255), VALUE varchar(255), PROJECTID integer, primary key (PROJECTPARAMID))
+04-Nov-2015 11:53:10.540 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'projectparam' already exists
+04-Nov-2015 11:53:10.559 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.SCHEDULE (SCHEDULEID integer not null, SCHEDULE varchar(255), TOOLTYPE varchar(255), OTHERPARAM varchar(255), ENVIRONMENTID integer, VERSIONID integer, JOB varchar(255), WORKFLOWID integer, primary key (SCHEDULEID))
+04-Nov-2015 11:53:10.560 ERROR [http-apr-8080-exec-2] null.null Table 'schedule' already exists
+04-Nov-2015 11:53:10.561 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.SCHEDULEUPDATETRACKER (ID integer not null, PROJECTID integer, WORKFLOWID integer, SCHEDULEID integer, primary key (ID))
+04-Nov-2015 11:53:10.561 ERROR [http-apr-8080-exec-2] null.null Table 'scheduleupdatetracker' already exists
+04-Nov-2015 11:53:10.562 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.TOOL (TOOLID integer not null, NAME varchar(255), TOOLMAPPINGID varchar(255), ARCHIVED boolean, LOCKBY varchar(255), PROJECTID integer, primary key (TOOLID))
+04-Nov-2015 11:53:10.562 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Table 'tool' already exists
+04-Nov-2015 11:53:10.564 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.TOOLPROPERTY (TOOLPROPERTYID integer not null, NAME varchar(255), VALUE LONGTEXT, TYPE varchar(255), DESCRIPTION LONGTEXT, TOOLID integer, primary key (TOOLPROPERTYID))
+04-Nov-2015 11:53:10.564 ERROR [http-apr-8080-exec-2] null.null Table 'toolproperty' already exists
+04-Nov-2015 11:53:10.599 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.TRIGGERFLOWACTION (TRIGGERFLOWACTIONID integer not null, WORKFLOWID integer not null, NAME varchar(255), LOCATIONX double precision, LOCATIONY double precision, SKIPPED varchar(255), WIDTH double precision, HEIGHT double precision, ACTIONID integer, WORKFLOWIDSET integer, primary key (TRIGGERFLOWACTIONID, WORKFLOWID))
+04-Nov-2015 11:53:10.599 ERROR [http-apr-8080-exec-2] null.null Table 'triggerflowaction' already exists
+04-Nov-2015 11:53:10.601 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.TRIGGERFLOWACTIONPROPERTY (TRIGGERFLOWACTIONPROPERTYID integer not null, ACTIONPROPERTYID integer, NEWVALUE LONGTEXT, TRIGGERFLOWACTIONID integer, WORKFLOWID integer, primary key (TRIGGERFLOWACTIONPROPERTYID))
+04-Nov-2015 11:53:10.601 ERROR [http-apr-8080-exec-2] null.null Table 'triggerflowactionproperty' already exists
+04-Nov-2015 11:53:10.613 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.TRIGGERLINKFLOWACTION (TRIGGERLINKFLOWACTIONID integer not null, FROMTRIGGERFLOWACTIONID integer, FROMWORKFLOWID integer, TOTRIGGERFLOWACTIONID integer, TOWORKFLOWID integer, TYPE varchar(255), WORKFLOWID integer, primary key (TRIGGERLINKFLOWACTIONID))
+04-Nov-2015 11:53:10.613 ERROR [http-apr-8080-exec-2] null.null Table 'triggerlinkflowaction' already exists
+04-Nov-2015 11:53:10.614 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.USER (USERNAME varchar(255) not null, PASSWORD varchar(255), OTHERACCOUNT varchar(255), EMAIL varchar(255), FIRSTNAME varchar(255), LASTNAME varchar(255), primary key (USERNAME))
+04-Nov-2015 11:53:10.614 ERROR [http-apr-8080-exec-2] null.null Table 'user' already exists
+04-Nov-2015 11:53:10.615 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: create table tempoengine.USERPERMISSION (USERNAME varchar(255) not null, PROJECTID integer not null, PERMISSIONLEVEL varchar(255), primary key (USERNAME, PROJECTID))
+04-Nov-2015 11:53:10.616 ERROR [http-apr-8080-exec-2] null.null Table 'userpermission' already exists
+04-Nov-2015 11:53:10.617 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.VERSION (VERSIONID integer not null, VERSION varchar(255), DESCRIPTION LONGTEXT, COMPONENTID integer, primary key (VERSIONID))
+04-Nov-2015 11:53:10.617 ERROR [http-apr-8080-exec-2] null.null Table 'version' already exists
+04-Nov-2015 11:53:10.634 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.VERSIONPARAM (VERSIONPARAMID integer not null, NAME varchar(255), COMPONENTID integer, primary key (VERSIONPARAMID))
+04-Nov-2015 11:53:10.634 ERROR [http-apr-8080-exec-2] null.null Table 'versionparam' already exists
+04-Nov-2015 11:53:10.636 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.VERSIONPARAMVALUE (VERSIONID integer not null, VERSIONPARAMID integer not null, VALUE varchar(255), VERSIONPARAMIDSET integer, primary key (VERSIONID, VERSIONPARAMID))
+04-Nov-2015 11:53:10.636 ERROR [http-apr-8080-exec-2] null.null Table 'versionparamvalue' already exists
+04-Nov-2015 11:53:10.637 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.WORKFLOW (WORKFLOWID integer not null, NAME varchar(255), DESCRIPTION varchar(255), ARCHIVED boolean, LOCKBY varchar(255), COMPONENTID integer, PROJECTID integer, primary key (WORKFLOWID))
+04-Nov-2015 11:53:10.637 ERROR [http-apr-8080-exec-2] null.null Table 'workflow' already exists
+04-Nov-2015 11:53:10.651 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: create table tempoengine.WORKFLOWPARAM (WORKFLOWPARAMID integer not null, NAME varchar(255), VALUE varchar(255), WORKFLOWID integer, primary key (WORKFLOWPARAMID))
+04-Nov-2015 11:53:10.651 ERROR [http-apr-8080-exec-2] null.null Table 'workflowparam' already exists
+04-Nov-2015 11:53:10.712 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.ACTION add index FK_j3fo2p1flwaf8yp7wrt1ws2wt (TOOLID), add constraint FK_j3fo2p1flwaf8yp7wrt1ws2wt foreign key (TOOLID) references tempoengine.TOOL (TOOLID)
+04-Nov-2015 11:53:10.713 ERROR [http-apr-8080-exec-2] null.null Duplicate key name 'FK_j3fo2p1flwaf8yp7wrt1ws2wt'
+04-Nov-2015 11:53:10.714 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.ACTIONEXECUTELOG add index FK_3qn23tbbkgvm8glqt5xk68imp (FLOWACTIONEXECUTELOGID), add constraint FK_3qn23tbbkgvm8glqt5xk68imp foreign key (FLOWACTIONEXECUTELOGID) references tempoengine.FLOWACTIONEXECUTELOG (FLOWACTIONEXECUTELOGID)
+04-Nov-2015 11:53:10.714 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_3qn23tbbkgvm8glqt5xk68imp'
+04-Nov-2015 11:53:10.715 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: alter table tempoengine.ACTIONPROPERTY add index FK_4lgjq0jfrqs46glppebtltlpj (ACTIONID), add constraint FK_4lgjq0jfrqs46glppebtltlpj foreign key (ACTIONID) references tempoengine.ACTION (ACTIONID)
+04-Nov-2015 11:53:10.715 ERROR [http-apr-8080-exec-2] null.null Duplicate key name 'FK_4lgjq0jfrqs46glppebtltlpj'
+04-Nov-2015 11:53:10.716 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.CASCADEDDEPLOYMENTLOG add index FK_6alhfjok24lqlp0p6bkygbnnh (CASCADEDWORKFLOWID), add constraint FK_6alhfjok24lqlp0p6bkygbnnh foreign key (CASCADEDWORKFLOWID) references tempoengine.CASCADEDWORKFLOW (CASCADEDWORKFLOWID)
+04-Nov-2015 11:53:10.716 ERROR [http-apr-8080-exec-2] null.null Duplicate key name 'FK_6alhfjok24lqlp0p6bkygbnnh'
+04-Nov-2015 11:53:10.717 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: alter table tempoengine.CASCADEDWORKFLOW add index FK_p4u1yvccird40j1iosa8ovbec (LOCKBY), add constraint FK_p4u1yvccird40j1iosa8ovbec foreign key (LOCKBY) references tempoengine.USER (USERNAME)
+04-Nov-2015 11:53:10.717 ERROR [http-apr-8080-exec-2] null.null Duplicate key name 'FK_p4u1yvccird40j1iosa8ovbec'
+04-Nov-2015 11:53:10.718 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.CASCADEDWORKFLOW add index FK_ouim7oethvl74jb5t98s07i1u (PROJECTID), add constraint FK_ouim7oethvl74jb5t98s07i1u foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.718 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_ouim7oethvl74jb5t98s07i1u'
+04-Nov-2015 11:53:10.719 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.COMPONENT add index FK_dk59g8ufdieywxp06bkl5aycv (LOCKBY), add constraint FK_dk59g8ufdieywxp06bkl5aycv foreign key (LOCKBY) references tempoengine.USER (USERNAME)
+04-Nov-2015 11:53:10.722 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_dk59g8ufdieywxp06bkl5aycv'
+04-Nov-2015 11:53:10.724 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.COMPONENT add index FK_jwqpnetlespo1m7id821s2d7f (PROJECTID), add constraint FK_jwqpnetlespo1m7id821s2d7f foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.726 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_jwqpnetlespo1m7id821s2d7f'
+04-Nov-2015 11:53:10.727 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.COMPPARAM add index FK_6qavyoneqibr8010ojuv3ihch (COMPONENTID), add constraint FK_6qavyoneqibr8010ojuv3ihch foreign key (COMPONENTID) references tempoengine.COMPONENT (COMPONENTID)
+04-Nov-2015 11:53:10.728 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_6qavyoneqibr8010ojuv3ihch'
+04-Nov-2015 11:53:10.749 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.DEPLOYMENTLOG add index FK_ppfdnrs8l8wnseig2kdu9nw5k (WORKFLOWID), add constraint FK_ppfdnrs8l8wnseig2kdu9nw5k foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.749 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_ppfdnrs8l8wnseig2kdu9nw5k'
+04-Nov-2015 11:53:10.750 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.ENVIRONMENT add index FK_955iv6pdm12kua5b08iy5542w (LOCKBY), add constraint FK_955iv6pdm12kua5b08iy5542w foreign key (LOCKBY) references tempoengine.USER (USERNAME)
+04-Nov-2015 11:53:10.751 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_955iv6pdm12kua5b08iy5542w'
+04-Nov-2015 11:53:10.752 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.ENVIRONMENT add index FK_ku3ae2h9sv4f6smhp4aq94xm7 (PROJECTID), add constraint FK_ku3ae2h9sv4f6smhp4aq94xm7 foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.752 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_ku3ae2h9sv4f6smhp4aq94xm7'
+04-Nov-2015 11:53:10.753 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.ENVPARAM add index FK_1ofeplnx42ti5500eos969j7q (PROJECTID), add constraint FK_1ofeplnx42ti5500eos969j7q foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.753 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_1ofeplnx42ti5500eos969j7q'
+04-Nov-2015 11:53:10.754 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: alter table tempoengine.ENVPARAMVALUE add index FK_2fg6tfl07wsgtwcpap8cun3sy (ENVIRONMENTID), add constraint FK_2fg6tfl07wsgtwcpap8cun3sy foreign key (ENVIRONMENTID) references tempoengine.ENVIRONMENT (ENVIRONMENTID)
+04-Nov-2015 11:53:10.754 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_2fg6tfl07wsgtwcpap8cun3sy'
+04-Nov-2015 11:53:10.755 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.ENVPARAMVALUE add index FK_5ya5um4gj7301ggl1w2w7oa5p (ENVPARAMID), add constraint FK_5ya5um4gj7301ggl1w2w7oa5p foreign key (ENVPARAMID) references tempoengine.ENVPARAM (ENVPARAMID)
+04-Nov-2015 11:53:10.756 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_5ya5um4gj7301ggl1w2w7oa5p'
+04-Nov-2015 11:53:10.757 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.ENVPARAMVALUE add index FK_imx0aoj2v57l71paa6xycf02f (ENVPARAMSETID), add constraint FK_imx0aoj2v57l71paa6xycf02f foreign key (ENVPARAMSETID) references tempoengine.ENVPARAM (ENVPARAMID)
+04-Nov-2015 11:53:10.757 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_imx0aoj2v57l71paa6xycf02f'
+04-Nov-2015 11:53:10.758 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWACTION add index FK_jic2qpxjdy3rxjj4aapf0yv9v (WORKFLOWID), add constraint FK_jic2qpxjdy3rxjj4aapf0yv9v foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.758 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_jic2qpxjdy3rxjj4aapf0yv9v'
+04-Nov-2015 11:53:10.759 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWACTION add index FK_l3ffccm0yerl1p98nl59m17qu (ACTIONID), add constraint FK_l3ffccm0yerl1p98nl59m17qu foreign key (ACTIONID) references tempoengine.ACTION (ACTIONID)
+04-Nov-2015 11:53:10.760 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_l3ffccm0yerl1p98nl59m17qu'
+04-Nov-2015 11:53:10.760 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWACTION add index FK_8g729eolnuv8im60cstyyh5pe (WORKFLOWIDSET), add constraint FK_8g729eolnuv8im60cstyyh5pe foreign key (WORKFLOWIDSET) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.761 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_8g729eolnuv8im60cstyyh5pe'
+04-Nov-2015 11:53:10.762 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWACTIONEXECUTELOG add index FK_1t4o4kx6dcdcycck5jhh8i4rj (DEPLOYMENTLOGID), add constraint FK_1t4o4kx6dcdcycck5jhh8i4rj foreign key (DEPLOYMENTLOGID) references tempoengine.DEPLOYMENTLOG (DEPLOYMENTLOGID)
+04-Nov-2015 11:53:10.762 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_1t4o4kx6dcdcycck5jhh8i4rj'
+04-Nov-2015 11:53:10.763 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWACTIONPROPERTY add index FK_jblndkymm4obi4usr0niy0n9m (ACTIONPROPERTYID), add constraint FK_jblndkymm4obi4usr0niy0n9m foreign key (ACTIONPROPERTYID) references tempoengine.ACTIONPROPERTY (ACTIONPROPERTYID)
+04-Nov-2015 11:53:10.764 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_jblndkymm4obi4usr0niy0n9m'
+04-Nov-2015 11:53:10.765 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWACTIONPROPERTY add index FK_eosp7fex8014ghc658acwlscb (FLOWACTIONID, WORKFLOWID), add constraint FK_eosp7fex8014ghc658acwlscb foreign key (FLOWACTIONID, WORKFLOWID) references tempoengine.FLOWACTION (FLOWACTIONID, WORKFLOWID)
+04-Nov-2015 11:53:10.765 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_eosp7fex8014ghc658acwlscb'
+04-Nov-2015 11:53:10.766 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOW add index FK_py3fitqm025ivbhic1j8otrlg (CASCADEDWORKFLOWID), add constraint FK_py3fitqm025ivbhic1j8otrlg foreign key (CASCADEDWORKFLOWID) references tempoengine.CASCADEDWORKFLOW (CASCADEDWORKFLOWID)
+04-Nov-2015 11:53:10.766 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_py3fitqm025ivbhic1j8otrlg'
+04-Nov-2015 11:53:10.767 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOW add index FK_6ww407x9gyebuwnw0vxyvof4y (WORKFLOWID), add constraint FK_6ww407x9gyebuwnw0vxyvof4y foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.767 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_6ww407x9gyebuwnw0vxyvof4y'
+04-Nov-2015 11:53:10.770 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOW add index FK_s4goqd5rcj47dxyhbykqh9emi (ENVIRONMENTID), add constraint FK_s4goqd5rcj47dxyhbykqh9emi foreign key (ENVIRONMENTID) references tempoengine.ENVIRONMENT (ENVIRONMENTID)
+04-Nov-2015 11:53:10.771 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_s4goqd5rcj47dxyhbykqh9emi'
+04-Nov-2015 11:53:10.771 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOW add index FK_r3bqqe3nqke2cs4u1yfanw0bi (VERSIONID), add constraint FK_r3bqqe3nqke2cs4u1yfanw0bi foreign key (VERSIONID) references tempoengine.VERSION (VERSIONID)
+04-Nov-2015 11:53:10.772 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_r3bqqe3nqke2cs4u1yfanw0bi'
+04-Nov-2015 11:53:10.775 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOW add index FK_t1c78r6b0uit5gx0qr20ut906 (CASCADEDWORKFLOWIDSET), add constraint FK_t1c78r6b0uit5gx0qr20ut906 foreign key (CASCADEDWORKFLOWIDSET) references tempoengine.CASCADEDWORKFLOW (CASCADEDWORKFLOWID)
+04-Nov-2015 11:53:10.776 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_t1c78r6b0uit5gx0qr20ut906'
+04-Nov-2015 11:53:10.777 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOWEXECUTELOG add index FK_973aha7vb7sfbs63lli1qftfo (CASCADEDDEPLOYMENTLOGID), add constraint FK_973aha7vb7sfbs63lli1qftfo foreign key (CASCADEDDEPLOYMENTLOGID) references tempoengine.CASCADEDDEPLOYMENTLOG (CASCADEDDEPLOYMENTLOGID)
+04-Nov-2015 11:53:10.778 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_973aha7vb7sfbs63lli1qftfo'
+04-Nov-2015 11:53:10.779 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOWEXECUTELOG add index FK_hu5a4rtoxuh5m8jqoljk2omp2 (DEPLOYMENTLOGID), add constraint FK_hu5a4rtoxuh5m8jqoljk2omp2 foreign key (DEPLOYMENTLOGID) references tempoengine.DEPLOYMENTLOG (DEPLOYMENTLOGID)
+04-Nov-2015 11:53:10.779 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_hu5a4rtoxuh5m8jqoljk2omp2'
+04-Nov-2015 11:53:10.780 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOWPROPERTY add index FK_r7wuv1ergou4dcdsitw5edaw3 (WORKFLOWPARAMID), add constraint FK_r7wuv1ergou4dcdsitw5edaw3 foreign key (WORKFLOWPARAMID) references tempoengine.WORKFLOWPARAM (WORKFLOWPARAMID)
+04-Nov-2015 11:53:10.780 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_r7wuv1ergou4dcdsitw5edaw3'
+04-Nov-2015 11:53:10.781 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.FLOWWORKFLOWPROPERTY add index FK_1nvaq6y2efgcru2354ont7ltx (FLOWWORKFLOWID, CASCADEDWORKFLOWID), add constraint FK_1nvaq6y2efgcru2354ont7ltx foreign key (FLOWWORKFLOWID, CASCADEDWORKFLOWID) references tempoengine.FLOWWORKFLOW (FLOWWORKFLOWID, CASCADEDWORKFLOWID)
+04-Nov-2015 11:53:10.781 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_1nvaq6y2efgcru2354ont7ltx'
+04-Nov-2015 11:53:10.782 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.LINKFLOWACTION add index FK_julr5790n29q8whg4vt11f1ll (FROMFLOWACTIONID, FROMWORKFLOWID), add constraint FK_julr5790n29q8whg4vt11f1ll foreign key (FROMFLOWACTIONID, FROMWORKFLOWID) references tempoengine.FLOWACTION (FLOWACTIONID, WORKFLOWID)
+04-Nov-2015 11:53:10.782 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_julr5790n29q8whg4vt11f1ll'
+04-Nov-2015 11:53:10.783 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.LINKFLOWACTION add index FK_iskk5ytoxs8oxdt6y8v9wmvkv (TOFLOWACTIONID, TOWORKFLOWID), add constraint FK_iskk5ytoxs8oxdt6y8v9wmvkv foreign key (TOFLOWACTIONID, TOWORKFLOWID) references tempoengine.FLOWACTION (FLOWACTIONID, WORKFLOWID)
+04-Nov-2015 11:53:10.783 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_iskk5ytoxs8oxdt6y8v9wmvkv'
+04-Nov-2015 11:53:10.784 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.LINKFLOWACTION add index FK_lns0kgk0ae43ktw4ni4xbmgj5 (WORKFLOWID), add constraint FK_lns0kgk0ae43ktw4ni4xbmgj5 foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.784 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_lns0kgk0ae43ktw4ni4xbmgj5'
+04-Nov-2015 11:53:10.785 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.LINKFLOWWORKFLOW add index FK_bsts5m2c50dxh7ubdxt3yqqg0 (FROMFLOWWORKFLOWID, FROMCASCADEDWORKFLOWID), add constraint FK_bsts5m2c50dxh7ubdxt3yqqg0 foreign key (FROMFLOWWORKFLOWID, FROMCASCADEDWORKFLOWID) references tempoengine.FLOWWORKFLOW (FLOWWORKFLOWID, CASCADEDWORKFLOWID)
+04-Nov-2015 11:53:10.785 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_bsts5m2c50dxh7ubdxt3yqqg0'
+04-Nov-2015 11:53:10.786 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.LINKFLOWWORKFLOW add index FK_4ay6tp4xlp0pydg57aw4s2g92 (TOFLOWWORKFLOWID, TOFCASCADEDWORKFLOWID), add constraint FK_4ay6tp4xlp0pydg57aw4s2g92 foreign key (TOFLOWWORKFLOWID, TOFCASCADEDWORKFLOWID) references tempoengine.FLOWWORKFLOW (FLOWWORKFLOWID, CASCADEDWORKFLOWID)
+04-Nov-2015 11:53:10.786 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_4ay6tp4xlp0pydg57aw4s2g92'
+04-Nov-2015 11:53:10.787 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.LINKFLOWWORKFLOW add index FK_p3uhnn6ed2l68ai4wdbql6as5 (CASCADEDWORKFLOWID), add constraint FK_p3uhnn6ed2l68ai4wdbql6as5 foreign key (CASCADEDWORKFLOWID) references tempoengine.CASCADEDWORKFLOW (CASCADEDWORKFLOWID)
+04-Nov-2015 11:53:10.788 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_p3uhnn6ed2l68ai4wdbql6as5'
+04-Nov-2015 11:53:10.788 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.LOG add index FK_e86uppndut5n78invt3b4x5od (VERSIONID), add constraint FK_e86uppndut5n78invt3b4x5od foreign key (VERSIONID) references tempoengine.VERSION (VERSIONID)
+04-Nov-2015 11:53:10.790 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_e86uppndut5n78invt3b4x5od'
+04-Nov-2015 11:53:10.791 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINE add index FK_s1pu3fi3yjdf1vkoa2prnkug1 (PROJECTID), add constraint FK_s1pu3fi3yjdf1vkoa2prnkug1 foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.791 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_s1pu3fi3yjdf1vkoa2prnkug1'
+04-Nov-2015 11:53:10.792 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEGROUP add index FK_hys68ohft4gonbrbpollf1p1l (ENVIRONMENTID), add constraint FK_hys68ohft4gonbrbpollf1p1l foreign key (ENVIRONMENTID) references tempoengine.ENVIRONMENT (ENVIRONMENTID)
+04-Nov-2015 11:53:10.793 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_hys68ohft4gonbrbpollf1p1l'
+04-Nov-2015 11:53:10.793 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEGROUPPARAM add index FK_pbv5e4gk0d69tj1thtbtkj66n (MACHINEGROUPID), add constraint FK_pbv5e4gk0d69tj1thtbtkj66n foreign key (MACHINEGROUPID) references tempoengine.MACHINEGROUP (MACHINEGROUPID)
+04-Nov-2015 11:53:10.794 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_pbv5e4gk0d69tj1thtbtkj66n'
+04-Nov-2015 11:53:10.794 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEGROUP_COMPONENT add index FK_hq5ca7komumm60720dskj03xs (MACHINEGROUPID), add constraint FK_hq5ca7komumm60720dskj03xs foreign key (MACHINEGROUPID) references tempoengine.MACHINEGROUP (MACHINEGROUPID)
+04-Nov-2015 11:53:10.795 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_hq5ca7komumm60720dskj03xs'
+04-Nov-2015 11:53:10.795 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEGROUP_COMPONENT add index FK_e6tgelv9u4vli7l4u4nw7tp7y (COMPONENTID), add constraint FK_e6tgelv9u4vli7l4u4nw7tp7y foreign key (COMPONENTID) references tempoengine.COMPONENT (COMPONENTID)
+04-Nov-2015 11:53:10.796 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_e6tgelv9u4vli7l4u4nw7tp7y'
+04-Nov-2015 11:53:10.797 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEGROUP_TOOL add index FK_pvv1xky0ytx21x7t6htw7069m (TOOLID), add constraint FK_pvv1xky0ytx21x7t6htw7069m foreign key (TOOLID) references tempoengine.TOOL (TOOLID)
+04-Nov-2015 11:53:10.797 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_pvv1xky0ytx21x7t6htw7069m'
+04-Nov-2015 11:53:10.798 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEGROUP_TOOL add index FK_2mugkw8u219mbooah206srut4 (MACHINEGROUPID), add constraint FK_2mugkw8u219mbooah206srut4 foreign key (MACHINEGROUPID) references tempoengine.MACHINEGROUP (MACHINEGROUPID)
+04-Nov-2015 11:53:10.798 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_2mugkw8u219mbooah206srut4'
+04-Nov-2015 11:53:10.799 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEPARAM add index FK_98ue7o8cufld6k4diuk9lqmvb (PROJECTID), add constraint FK_98ue7o8cufld6k4diuk9lqmvb foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.799 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_98ue7o8cufld6k4diuk9lqmvb'
+04-Nov-2015 11:53:10.800 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEPARAMVALUE add index FK_r7v8egsdci6qb9vddtikkrdhu (MACHINEID), add constraint FK_r7v8egsdci6qb9vddtikkrdhu foreign key (MACHINEID) references tempoengine.MACHINE (MACHINEID)
+04-Nov-2015 11:53:10.800 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_r7v8egsdci6qb9vddtikkrdhu'
+04-Nov-2015 11:53:10.801 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEPARAMVALUE add index FK_cieransin6vuy14cu7fpetanq (MACHINEPARAMID), add constraint FK_cieransin6vuy14cu7fpetanq foreign key (MACHINEPARAMID) references tempoengine.MACHINEPARAM (MACHINEPARAMID)
+04-Nov-2015 11:53:10.801 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_cieransin6vuy14cu7fpetanq'
+04-Nov-2015 11:53:10.802 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINEPARAMVALUE add index FK_6vrlqd2v9219bmpn3kp6x3c8p (MACHINEPARAMSETID), add constraint FK_6vrlqd2v9219bmpn3kp6x3c8p foreign key (MACHINEPARAMSETID) references tempoengine.MACHINEPARAM (MACHINEPARAMID)
+04-Nov-2015 11:53:10.802 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_6vrlqd2v9219bmpn3kp6x3c8p'
+04-Nov-2015 11:53:10.803 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINE_MACHINEGROUP add index FK_2qqwxwdy8venjw9c0fwubdity (MACHINEGROUPID), add constraint FK_2qqwxwdy8venjw9c0fwubdity foreign key (MACHINEGROUPID) references tempoengine.MACHINEGROUP (MACHINEGROUPID)
+04-Nov-2015 11:53:10.804 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_2qqwxwdy8venjw9c0fwubdity'
+04-Nov-2015 11:53:10.804 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.MACHINE_MACHINEGROUP add index FK_ke9rci1jr8d25onfa9w3w8rkk (MACHINEID), add constraint FK_ke9rci1jr8d25onfa9w3w8rkk foreign key (MACHINEID) references tempoengine.MACHINE (MACHINEID)
+04-Nov-2015 11:53:10.805 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_ke9rci1jr8d25onfa9w3w8rkk'
+04-Nov-2015 11:53:10.805 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.NOTIFICATION add index FK_cpu2b7jbc8xh0b693b7l9gjc0 (PROJECTID), add constraint FK_cpu2b7jbc8xh0b693b7l9gjc0 foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.806 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_cpu2b7jbc8xh0b693b7l9gjc0'
+04-Nov-2015 11:53:10.806 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.PROJECT add index FK_pdndp4iiroeo1pyxo3a1rp4e4 (LOCKBY), add constraint FK_pdndp4iiroeo1pyxo3a1rp4e4 foreign key (LOCKBY) references tempoengine.USER (USERNAME)
+04-Nov-2015 11:53:10.807 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_pdndp4iiroeo1pyxo3a1rp4e4'
+04-Nov-2015 11:53:10.808 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.PROJECTPARAM add index FK_97gvu5lwrqinukhwu1kdfya6t (PROJECTID), add constraint FK_97gvu5lwrqinukhwu1kdfya6t foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.808 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_97gvu5lwrqinukhwu1kdfya6t'
+04-Nov-2015 11:53:10.809 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.SCHEDULE add index FK_osxdwd0j181bx1fqq4jmt85cu (ENVIRONMENTID), add constraint FK_osxdwd0j181bx1fqq4jmt85cu foreign key (ENVIRONMENTID) references tempoengine.ENVIRONMENT (ENVIRONMENTID)
+04-Nov-2015 11:53:10.809 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_osxdwd0j181bx1fqq4jmt85cu'
+04-Nov-2015 11:53:10.810 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.SCHEDULE add index FK_2vxhmecfuxge150cx7lj3b7y4 (VERSIONID), add constraint FK_2vxhmecfuxge150cx7lj3b7y4 foreign key (VERSIONID) references tempoengine.VERSION (VERSIONID)
+04-Nov-2015 11:53:10.810 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_2vxhmecfuxge150cx7lj3b7y4'
+04-Nov-2015 11:53:10.811 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.SCHEDULE add index FK_2bt1adp7fx6og4e8ske06hvi3 (WORKFLOWID), add constraint FK_2bt1adp7fx6og4e8ske06hvi3 foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.811 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_2bt1adp7fx6og4e8ske06hvi3'
+04-Nov-2015 11:53:10.812 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.SCHEDULEUPDATETRACKER add index FK_69socx6488qvf3eu8k71vhqd7 (PROJECTID), add constraint FK_69socx6488qvf3eu8k71vhqd7 foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.812 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_69socx6488qvf3eu8k71vhqd7'
+04-Nov-2015 11:53:10.813 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.SCHEDULEUPDATETRACKER add index FK_ajuy1wnt5t2i3px3h6nr9sysl (WORKFLOWID), add constraint FK_ajuy1wnt5t2i3px3h6nr9sysl foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.813 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_ajuy1wnt5t2i3px3h6nr9sysl'
+04-Nov-2015 11:53:10.813 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.SCHEDULEUPDATETRACKER add index FK_8xk0l8945h9gedbsnup3tlncb (SCHEDULEID), add constraint FK_8xk0l8945h9gedbsnup3tlncb foreign key (SCHEDULEID) references tempoengine.SCHEDULE (SCHEDULEID)
+04-Nov-2015 11:53:10.814 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_8xk0l8945h9gedbsnup3tlncb'
+04-Nov-2015 11:53:10.814 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.TOOL add index FK_bsexvxn4yuixbvne778xnqbe8 (LOCKBY), add constraint FK_bsexvxn4yuixbvne778xnqbe8 foreign key (LOCKBY) references tempoengine.USER (USERNAME)
+04-Nov-2015 11:53:10.815 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_bsexvxn4yuixbvne778xnqbe8'
+04-Nov-2015 11:53:10.815 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TOOL add index FK_hnqf92l9yskatn9ci073ewaix (PROJECTID), add constraint FK_hnqf92l9yskatn9ci073ewaix foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.816 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_hnqf92l9yskatn9ci073ewaix'
+04-Nov-2015 11:53:10.816 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TOOLPROPERTY add index FK_92ld2kwsdvgp4v94u4lu5x1h3 (TOOLID), add constraint FK_92ld2kwsdvgp4v94u4lu5x1h3 foreign key (TOOLID) references tempoengine.TOOL (TOOLID)
+04-Nov-2015 11:53:10.816 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_92ld2kwsdvgp4v94u4lu5x1h3'
+04-Nov-2015 11:53:10.817 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TRIGGERFLOWACTION add index FK_24lq33vi27puc765ciqsmjppk (WORKFLOWID), add constraint FK_24lq33vi27puc765ciqsmjppk foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.817 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_24lq33vi27puc765ciqsmjppk'
+04-Nov-2015 11:53:10.818 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TRIGGERFLOWACTION add index FK_12l3kiu9ufguv40x6ft27no95 (ACTIONID), add constraint FK_12l3kiu9ufguv40x6ft27no95 foreign key (ACTIONID) references tempoengine.ACTION (ACTIONID)
+04-Nov-2015 11:53:10.818 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_12l3kiu9ufguv40x6ft27no95'
+04-Nov-2015 11:53:10.818 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TRIGGERFLOWACTION add index FK_sc5d9c9gxcbrphuhhjmuoy01w (WORKFLOWIDSET), add constraint FK_sc5d9c9gxcbrphuhhjmuoy01w foreign key (WORKFLOWIDSET) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.818 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_sc5d9c9gxcbrphuhhjmuoy01w'
+04-Nov-2015 11:53:10.819 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TRIGGERFLOWACTIONPROPERTY add index FK_3ikrhk0atn6jv0rdbuw2okwjm (ACTIONPROPERTYID), add constraint FK_3ikrhk0atn6jv0rdbuw2okwjm foreign key (ACTIONPROPERTYID) references tempoengine.ACTIONPROPERTY (ACTIONPROPERTYID)
+04-Nov-2015 11:53:10.819 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_3ikrhk0atn6jv0rdbuw2okwjm'
+04-Nov-2015 11:53:10.820 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TRIGGERFLOWACTIONPROPERTY add index FK_1j4qd9w3to14uyig5qx3ceb9n (TRIGGERFLOWACTIONID, WORKFLOWID), add constraint FK_1j4qd9w3to14uyig5qx3ceb9n foreign key (TRIGGERFLOWACTIONID, WORKFLOWID) references tempoengine.TRIGGERFLOWACTION (TRIGGERFLOWACTIONID, WORKFLOWID)
+04-Nov-2015 11:53:10.820 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_1j4qd9w3to14uyig5qx3ceb9n'
+04-Nov-2015 11:53:10.821 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> HHH000388: Unsuccessful: alter table tempoengine.TRIGGERLINKFLOWACTION add index FK_91k9ll26uin9r3opamafk7sj9 (FROMTRIGGERFLOWACTIONID, FROMWORKFLOWID), add constraint FK_91k9ll26uin9r3opamafk7sj9 foreign key (FROMTRIGGERFLOWACTIONID, FROMWORKFLOWID) references tempoengine.TRIGGERFLOWACTION (TRIGGERFLOWACTIONID, WORKFLOWID)
+04-Nov-2015 11:53:10.821 ERROR [http-apr-8080-exec-2] <unknown>.<unknown> Duplicate key name 'FK_91k9ll26uin9r3opamafk7sj9'
+04-Nov-2015 11:53:10.835 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: alter table tempoengine.TRIGGERLINKFLOWACTION add index FK_f65pnqe7ff426mrdl4snadqfx (TOTRIGGERFLOWACTIONID, TOWORKFLOWID), add constraint FK_f65pnqe7ff426mrdl4snadqfx foreign key (TOTRIGGERFLOWACTIONID, TOWORKFLOWID) references tempoengine.TRIGGERFLOWACTION (TRIGGERFLOWACTIONID, WORKFLOWID)
+04-Nov-2015 11:53:10.835 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_f65pnqe7ff426mrdl4snadqfx'
+04-Nov-2015 11:53:10.836 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.TRIGGERLINKFLOWACTION add index FK_daq8m7o5xggj8172m00x9v6dy (WORKFLOWID), add constraint FK_daq8m7o5xggj8172m00x9v6dy foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.837 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_daq8m7o5xggj8172m00x9v6dy'
+04-Nov-2015 11:53:10.838 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.USERPERMISSION add index FK_duqvnlburvjok2pn8gq9fye6c (USERNAME), add constraint FK_duqvnlburvjok2pn8gq9fye6c foreign key (USERNAME) references tempoengine.USER (USERNAME)
+04-Nov-2015 11:53:10.838 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_duqvnlburvjok2pn8gq9fye6c'
+04-Nov-2015 11:53:10.839 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.USERPERMISSION add index FK_142txvul1r0hn8gpn9h6e1p4x (PROJECTID), add constraint FK_142txvul1r0hn8gpn9h6e1p4x foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.840 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_142txvul1r0hn8gpn9h6e1p4x'
+04-Nov-2015 11:53:10.841 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.VERSION add index FK_keu3vvfn86bqiwpsr9xdx3cge (COMPONENTID), add constraint FK_keu3vvfn86bqiwpsr9xdx3cge foreign key (COMPONENTID) references tempoengine.COMPONENT (COMPONENTID)
+04-Nov-2015 11:53:10.841 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_keu3vvfn86bqiwpsr9xdx3cge'
+04-Nov-2015 11:53:10.842 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.VERSIONPARAM add index FK_nblxhjs1682s7rygfau1tc12t (COMPONENTID), add constraint FK_nblxhjs1682s7rygfau1tc12t foreign key (COMPONENTID) references tempoengine.COMPONENT (COMPONENTID)
+04-Nov-2015 11:53:10.842 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_nblxhjs1682s7rygfau1tc12t'
+04-Nov-2015 11:53:10.843 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.VERSIONPARAMVALUE add index FK_368ik3ubh8ilglx2dy16fjmqj (VERSIONID), add constraint FK_368ik3ubh8ilglx2dy16fjmqj foreign key (VERSIONID) references tempoengine.VERSION (VERSIONID)
+04-Nov-2015 11:53:10.843 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_368ik3ubh8ilglx2dy16fjmqj'
+04-Nov-2015 11:53:10.844 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.VERSIONPARAMVALUE add index FK_83a8d99nyf4hr8peuwpxag3f2 (VERSIONPARAMID), add constraint FK_83a8d99nyf4hr8peuwpxag3f2 foreign key (VERSIONPARAMID) references tempoengine.VERSIONPARAM (VERSIONPARAMID)
+04-Nov-2015 11:53:10.845 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_83a8d99nyf4hr8peuwpxag3f2'
+04-Nov-2015 11:53:10.846 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.VERSIONPARAMVALUE add index FK_63swdahfwlsmxjhw2ugb7csxe (VERSIONPARAMIDSET), add constraint FK_63swdahfwlsmxjhw2ugb7csxe foreign key (VERSIONPARAMIDSET) references tempoengine.VERSIONPARAM (VERSIONPARAMID)
+04-Nov-2015 11:53:10.846 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_63swdahfwlsmxjhw2ugb7csxe'
+04-Nov-2015 11:53:10.847 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.WORKFLOW add index FK_9isliua64mgclu99ognymdvi6 (LOCKBY), add constraint FK_9isliua64mgclu99ognymdvi6 foreign key (LOCKBY) references tempoengine.USER (USERNAME)
+04-Nov-2015 11:53:10.847 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_9isliua64mgclu99ognymdvi6'
+04-Nov-2015 11:53:10.848 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute HHH000388: Unsuccessful: alter table tempoengine.WORKFLOW add index FK_5a0wdmfexocjl97c7u45m1uru (COMPONENTID), add constraint FK_5a0wdmfexocjl97c7u45m1uru foreign key (COMPONENTID) references tempoengine.COMPONENT (COMPONENTID)
+04-Nov-2015 11:53:10.848 ERROR [http-apr-8080-exec-2] org.hibernate.tool.hbm2ddl.SchemaUpdate.execute Duplicate key name 'FK_5a0wdmfexocjl97c7u45m1uru'
+04-Nov-2015 11:53:10.849 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: alter table tempoengine.WORKFLOW add index FK_hg4vcleuhq3xgppjio827f6c0 (PROJECTID), add constraint FK_hg4vcleuhq3xgppjio827f6c0 foreign key (PROJECTID) references tempoengine.PROJECT (PROJECTID)
+04-Nov-2015 11:53:10.849 ERROR [http-apr-8080-exec-2] null.null Duplicate key name 'FK_hg4vcleuhq3xgppjio827f6c0'
+04-Nov-2015 11:53:10.850 ERROR [http-apr-8080-exec-2] null.null HHH000388: Unsuccessful: alter table tempoengine.WORKFLOWPARAM add index FK_8dw1nahlmpem6xxq0cvas211o (WORKFLOWID), add constraint FK_8dw1nahlmpem6xxq0cvas211o foreign key (WORKFLOWID) references tempoengine.WORKFLOW (WORKFLOWID)
+04-Nov-2015 11:53:10.850 ERROR [http-apr-8080-exec-2] null.null Duplicate key name 'FK_8dw1nahlmpem6xxq0cvas211o'
+04-Nov-2015 11:53:10.850 INFO [http-apr-8080-exec-2] null.null HHH000232: Schema update complete
