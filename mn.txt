@@ -1,0 +1,7 @@
+if "{ServiceName}"=="" (
+set errorlevel=1
+echo "service name can't be empty"
+exit /b ) else (
+PsExec.exe -u {tool.UserName} -p {tool.Password} cmd /c net start {ServiceName}
+)
+
