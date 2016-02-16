@@ -1,6 +1,0 @@
-set WL_HOME={tool.WL_HOME}
-set MW_HOME={tool.WL_HOME}\..
-set CLASSPATH=%WL_HOME%\server\lib\weblogic.jar
-
-path=%path%;"{tool.WL_HOME}"\common\bin;
-WLST StartServer.py
