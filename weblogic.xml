@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<weblogic-web-app xmlns="http://xmlns.oracle.com/weblogic/weblogic-web-app"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.oracle.com/weblogic/weblogic-web-app http://xmlns.oracle.com/weblogic/weblogic-web-app/1.2/weblogic-web-app.xsd">
+
+	<!-- session-descriptor>
+		<cookie-comment>jobsummarysessioncookie</cookie-comment>
+		<cookie-max-age-secs>-1</cookie-max-age-secs>
+		<cookie-name>JSESSIONID_jobsummary</cookie-name>
+		<cookie-path>/vmj/ms/jobsummary</cookie-path>
+		<cookies-enabled>true</cookies-enabled>
+		<invalidation-interval-secs>60</invalidation-interval-secs>
+		<id-length>52</id-length>
+		<timeout-secs>1800</timeout-secs>
+		<url-rewriting-enabled>false</url-rewriting-enabled>
+		<persistent-store-type>memory</persistent-store-type>
+		<cookie-domain>.virtusa.com</cookie-domain>
+	</session-descriptor -->
+
+	<container-descriptor>
+		<servlet-reload-check-secs>-1</servlet-reload-check-secs>
+		<save-sessions-enabled>true</save-sessions-enabled>
+		<prefer-web-inf-classes>false</prefer-web-inf-classes>
+		<prefer-application-packages>
+			<package-name>javax.persistence.*</package-name>
+		</prefer-application-packages>
+	</container-descriptor>
+
+	<!-- wl-dispatch-policy>JobSummaryWorkManager</wl-dispatch-policy -->
+
+	<context-root>vmj/ms/jobsummary</context-root>
+
+	<charset-params>
+		<input-charset>
+			<resource-path>/*</resource-path>
+			<java-charset-name>UTF-8</java-charset-name>
+		</input-charset>
+	</charset-params>
+
+</weblogic-web-app>

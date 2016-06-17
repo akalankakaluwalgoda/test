@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<xml>=
+<PurchaseOrder PurchaseOrderNumber="99503" OrderDate="1999-10-20">
+<Address Type="Billing" lastname="sameera" age="20" Age="12">
+<Name>Ellen Adams</Name>=
+<Street>123 Maple Street</Street>=
+<City>Mill Valley</City>=
+<State>CA</State>=
+<Zip>10999</Zip>=
+<Country>USA</Country>=
+</Address>=
+<Address Type="Billing" lastname="sameera" age="20" Age="12">
+<Name>Tai Yee</Name>=
+<Street>8 Oak Avenue</Street>=
+<City>Old Town</City>=
+<State>PA</State>=
+<Zip>95819</Zip>=
+<Country>USA</Country>=
+</Address>=
+</PurchaseOrder>=
+</xml>=
+School=12
+Class=arsd
+Grade\ 12=jayathi
